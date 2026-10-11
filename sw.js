@@ -1,5 +1,5 @@
 importScripts('./jszip.min.js');
-const CACHE='digital-library-phone-v3';
+const CACHE='digital-library-phone-v4';
 const FILES=["./", "./pdf.min.mjs", "./pdf-resources.zip", "./pdf.worker.min.mjs", "./pdf-lib.min.js", "./jszip.min.js", "./icon.png", "./style.css", "./manifest.json", "./app.mjs", "./index.html"];
 let resources;
 self.addEventListener('install',e=>e.waitUntil((async()=>{const c=await caches.open(CACHE);await c.addAll(FILES);await self.skipWaiting()})()));
