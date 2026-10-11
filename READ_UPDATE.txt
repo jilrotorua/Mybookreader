@@ -1,7 +1,7 @@
-Replace these four files in the SAME GitHub repository, keeping the other app files. Back up first and reopen while online. Do not clear website data.
+Back up your library first. Replace these four app files in your existing GitHub repository; keep the other files. Reopen while online. Do not clear website data.
 
-Highlight replaces Mark. Scroll and Text highlight are hidden. Tap the selected Pen or Highlight again to scroll normally. Press-and-hold copy/look-up is suppressed on reading pages. Pen is thinner. Drawing defaults to stylus-only input; finger/palm touches do not draw when your stylus is recognized as a pen.
+New collection now uses the browser text-entry prompt. Book details: tap Edit title, type into the prompt, tap OK, then Save changes.
 
-For a universal stylus that behaves like a finger, enable More > Finger / universal pen. In that mode the browser cannot distinguish your palm from the stylus. Keep your palm lifted or use a drawing glove.
+The four built-in collections are removed once on update. Books previously in those collections become Unfiled; books and notes are kept. Your other custom collections stay. You can create any collection name, including a former preset, after the update.
 
-Notes (top right) lists saved notes and bookmarks. Tap Bookmark to save the current page. Open Notes and tap its page number to return to a bookmark.
+The browser cannot force the onscreen keyboard if iPadOS is using a connected physical keyboard. If needed, disconnect it or use iPadOS Show Keyboard.
