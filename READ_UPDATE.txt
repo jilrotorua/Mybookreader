@@ -1,7 +1,7 @@
-Back up your library first. Replace these four app files in your existing GitHub repository; keep the other files. Reopen while online. Do not clear website data.
+Back up first. Upload these four files to your SAME GitHub repository, replacing old copies. Keep other files. Reopen while online without clearing website data.
 
-New collection now uses the browser text-entry prompt. Book details: tap Edit title, type into the prompt, tap OK, then Save changes.
+Tap New folder below your collections, choose its parent collection, then Name your folder. A collection can contain multiple folders. Tap a collection to show its folders. Tap a folder to filter books.
 
-The four built-in collections are removed once on update. Books previously in those collections become Unfiled; books and notes are kept. Your other custom collections stay. You can create any collection name, including a former preset, after the update.
+Move a book: its three-dot button > Collection > Folder inside collection > Save changes. Newly imported books go into the currently selected folder.
 
-The browser cannot force the onscreen keyboard if iPadOS is using a connected physical keyboard. If needed, disconnect it or use iPadOS Show Keyboard.
+Folders are included in Back up library and Restore backup. This update contains all earlier fixes.

@@ -10,3 +10,5 @@
 #readingArea,#readingArea *{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}.textLayer span,.textLayer br{-webkit-user-select:none;user-select:none}.fingerSetting{display:flex;align-items:center;gap:9px;font-size:13px;padding:10px;background:#e9f3ef;border-radius:12px;width:100%}.fingerSetting input{width:20px!important;height:20px;accent-color:#7861b5}.toolbar button[data-tool="pen"].selected,.toolbar button[data-tool="marker"].selected{box-shadow:inset 0 0 0 2px #5f4894}
 
 .titlePromptRow{display:flex;gap:8px;align-items:center}.titlePromptRow input{flex:1;min-width:0;background:#f6f1fa}.titlePromptRow button{flex-shrink:0;background:#e6f1ee;color:#397b6b;border:0}
+
+.folderList{padding-left:18px;border-left:2px solid #dacfea;margin-left:18px}.folderNav{font-size:12px;padding:8px 10px}.folderNav.active{background:#fff2d7;color:#887125}
