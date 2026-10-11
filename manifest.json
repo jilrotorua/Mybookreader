@@ -1,0 +1,1 @@
+{"name":"My Digital Library","short_name":"My Library","start_url":"./","scope":"./","display":"standalone","background_color":"#faf8f5","theme_color":"#7563bd","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
