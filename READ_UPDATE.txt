@@ -1,1 +1,3 @@
-Upload sw.js, app.mjs and update.html beside index.html in your SAME repository. Replace sw.js and app.mjs. Keep all other files. Wait for GitHub Pages deployment, then open update.html in your regular iPad Safari and tap Refresh app now. Your books and notes remain. Do not clear website data.
+Back up first. Replace the five included files in your SAME GitHub repository, keeping other files. Open update.html while online and tap Refresh app now if the update is not visible. Do not clear website data.
+
+Tap Arrange books on a bookshelf, collection or folder. Use up/down arrows, then Save order. The custom order is remembered; new books are appended. Collections and folders use the same book order, filtered to their contents. Recently opened remains ordered by last use until you save an arrangement, which returns to the main bookshelf. Cancel discards unsaved moves. Backup and restore include your order.

@@ -12,3 +12,5 @@
 .titlePromptRow{display:flex;gap:8px;align-items:center}.titlePromptRow input{flex:1;min-width:0;background:#f6f1fa}.titlePromptRow button{flex-shrink:0;background:#e6f1ee;color:#397b6b;border:0}
 
 .folderList{padding-left:18px;border-left:2px solid #dacfea;margin-left:18px}.folderNav{font-size:12px;padding:8px 10px}.folderNav.active{background:#fff2d7;color:#887125}
+
+#arrangeBooks{background:#ece5f7;border:0;color:#70549c;font-size:12px}.arrangeList{max-height:50vh;overflow:auto}.arrangeRow{display:flex;align-items:center;gap:8px;margin:8px 0;padding:10px;background:#f3edf9;border-radius:13px}.arrangeNumber{color:#9c83b7;font-size:12px;min-width:20px}.arrangeTitle{flex:1;min-width:0;font-size:14px;overflow-wrap:anywhere}.arrangeRow button{padding:6px 12px;border:0;background:#fff;color:#7862b3}
