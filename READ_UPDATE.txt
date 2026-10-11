@@ -1,5 +1,1 @@
-Back up first. Replace these four files in your SAME GitHub repository and keep all other app files. Reopen while online.
-
-Tap a collection. Its folders and New folder button appear indented inside it. New folder automatically belongs to that collection; no collection selector is needed.
-
-All prior app fixes are included. Books and notes remain in the same database. Do not clear website data.
+Upload sw.js, app.mjs and update.html beside index.html in your SAME repository. Replace sw.js and app.mjs. Keep all other files. Wait for GitHub Pages deployment, then open update.html in your regular iPad Safari and tap Refresh app now. Your books and notes remain. Do not clear website data.

@@ -1,5 +1,5 @@
 importScripts('./jszip.min.js');
-const CACHE='digital-library-phone-v8';
+const CACHE='digital-library-phone-v9';
 const FILES=["./", "./pdf.min.mjs", "./pdf-resources.zip", "./pdf.worker.min.mjs", "./pdf-lib.min.js", "./jszip.min.js", "./icon.png", "./style.css", "./manifest.json", "./app.mjs", "./index.html"];
 let resources;
 self.addEventListener('install',e=>e.waitUntil((async()=>{const c=await caches.open(CACHE);await c.addAll(FILES);await self.skipWaiting()})()));
@@ -8,4 +8,4 @@ async function resourceArchive(){if(!resources)resources=(async()=>{const c=awai
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;
 const prefix=new URL('./vendor/',self.registration.scope).href;
 if(e.request.url.startsWith(prefix)){e.respondWith((async()=>{const name=e.request.url.slice(prefix.length);const z=await resourceArchive();const f=z.file(name);if(!f)return new Response('Not found',{status:404});return new Response(await f.async('uint8array'),{headers:{'Content-Type':'application/octet-stream'}})})());return}
-e.respondWith((async()=>{const c=await caches.open(CACHE);const cached=await c.match(e.request);if(cached)return cached;try{return await fetch(e.request)}catch(err){if(e.request.mode==='navigate')return c.match('./index.html');throw err}})())});
+e.respondWith((async()=>{const c=await caches.open(CACHE);const cached=await c.match(e.request);const url=new URL(e.request.url);const fresh=e.request.mode==='navigate'||/\.(?:html|mjs|js|css)$/.test(url.pathname);if(fresh){try{const response=await fetch(e.request,{cache:'no-store'});if(response.ok){await c.put(e.request,response.clone());return response}if(cached)return cached;return response}catch(err){if(cached)return cached;if(e.request.mode==='navigate')return c.match('./index.html');throw err}}if(cached)return cached;return fetch(e.request)})())});
