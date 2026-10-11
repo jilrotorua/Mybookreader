@@ -1,3 +1,7 @@
-Upload the four app files to the SAME GitHub repository beside your existing index.html, replacing their old copies. Keep all other app files. This update includes the prior scrolling, toolbar and keyboard improvements. Reopen while online to update the offline cache. Do not clear website data. Back up library before updating.
+Replace these four files in the SAME GitHub repository, keeping the other app files. Back up first and reopen while online. Do not clear website data.
 
-Mark now draws a straight horizontal highlighter line as you drag across a line of text. Pen stays freehand. Tap a colour circle to choose yellow, pink, green, blue, purple or ink. Text highlight still follows selected text.
+Highlight replaces Mark. Scroll and Text highlight are hidden. Tap the selected Pen or Highlight again to scroll normally. Press-and-hold copy/look-up is suppressed on reading pages. Pen is thinner. Drawing defaults to stylus-only input; finger/palm touches do not draw when your stylus is recognized as a pen.
+
+For a universal stylus that behaves like a finger, enable More > Finger / universal pen. In that mode the browser cannot distinguish your palm from the stylus. Keep your palm lifted or use a drawing glove.
+
+Notes (top right) lists saved notes and bookmarks. Tap Bookmark to save the current page. Open Notes and tap its page number to return to a bookmark.
