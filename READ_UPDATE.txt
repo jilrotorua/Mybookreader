@@ -1,3 +1,5 @@
-Back up first. Replace these five files in your SAME GitHub repository; keep all other files. Reopen online or open update.html and tap Refresh app now. Do not clear website data.
+Back up first. Replace these five files in your SAME GitHub repository; keep all other files. Open update.html while online and tap Refresh app now. Do not clear website data.
 
-Open a collection to see its folders as thick colourful binders. Tap a binder to open its books. Books outside folders appear below. New folder is beside Arrange books in the collection toolbar. Sidebar folders have different colours. Your books and notes remain.
+Tap Rename under a collection or folder cover to change its name. Existing book assignments and nested folders follow the new name. Duplicate names within the same parent are rejected.
+
+Cover titles shrink when necessary and wrap at spaces so words such as Combined do not split into separate letters.
