@@ -1,3 +1,3 @@
-Back up first. Replace the five included files in your SAME GitHub repository. Keep all other files. Reopen online or open update.html and tap Refresh app now. Do not clear website data.
+Back up first. Replace these five files in your SAME GitHub repository; keep all other files. Reopen online or open update.html and tap Refresh app now. Do not clear website data.
 
-My Bookshelf now displays your collections as thick book covers. Tap one to see its books and folders. Unfiled books are shown below as the original thin notebook covers. No books or notes are deleted by this layout change.
+Open a collection to see its folders as thick colourful binders. Tap a binder to open its books. Books outside folders appear below. New folder is beside Arrange books in the collection toolbar. Sidebar folders have different colours. Your books and notes remain.
