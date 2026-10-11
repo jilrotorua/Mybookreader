@@ -1,7 +1,5 @@
-Back up first. Upload these four files to your SAME GitHub repository, replacing old copies. Keep other files. Reopen while online without clearing website data.
+Back up first. Replace these four files in your SAME GitHub repository and keep all other app files. Reopen while online.
 
-Tap New folder below your collections, choose its parent collection, then Name your folder. A collection can contain multiple folders. Tap a collection to show its folders. Tap a folder to filter books.
+Tap a collection. Its folders and New folder button appear indented inside it. New folder automatically belongs to that collection; no collection selector is needed.
 
-Move a book: its three-dot button > Collection > Folder inside collection > Save changes. Newly imported books go into the currently selected folder.
-
-Folders are included in Back up library and Restore backup. This update contains all earlier fixes.
+All prior app fixes are included. Books and notes remain in the same database. Do not clear website data.
