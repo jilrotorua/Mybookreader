@@ -1,5 +1,5 @@
-Back up first. Replace these five files in your SAME GitHub repository; keep all other files. Open update.html while online and tap Refresh app now. Do not clear website data.
+Back up first. Replace these five files in your SAME GitHub repository, keeping all other files. Open update.html online and tap Refresh app now. Do not clear website data.
 
-Tap Rename under a collection or folder cover to change its name. Existing book assignments and nested folders follow the new name. Duplicate names within the same parent are rejected.
+Fixed missed first strokes when starting on another PDF page. Drawing tools now accept input on every page. Eraser detects the full length of a highlight rather than only its endpoints. The Finger / universal pen setting now persists.
 
-Cover titles shrink when necessary and wrap at spaces so words such as Combined do not split into separate letters.
+For a universal stylus that acts like a finger, enable More > Finger / universal pen. Keep your palm off the page in that mode. Apple Pencil can use stylus-only mode. Tap the selected drawing tool again to scroll. The fixes have been checked with simulated input; please check them on your iPad.
